@@ -185,7 +185,7 @@ export default function App() {
                   fontWeight: 500
                 }}
               >
-                Built by Your Name
+                Built by Rajvir Vyas
               </Typography>
             </Box>
         <Button
